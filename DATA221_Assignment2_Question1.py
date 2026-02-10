@@ -36,4 +36,4 @@ top_word = 10
 for word, count in sorted_word[:top_word]:
     print(f'{word} -> {count}')
 
-file.close()
+
